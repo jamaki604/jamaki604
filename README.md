@@ -45,11 +45,28 @@ CI/CD (Continuous Integration & Deployment), Agile, Waterfall, Clean Code, Versi
 
 ## 🔭 What I’m looking for
 
-I am currently seeking opportunities that allow me to blend my programming expertise with my deep passion for art and design. With a keen interest in photography, video production, and graphic design, I am eager to engage in projects where I can apply my coding skills to create innovative solutions within the realms of digital art and design. I am enthusiastic about collaborating with like-minded professionals who share my dedication to pushing the boundaries of creativity and technology. Whether through internships, entry-level positions, or freelance projects, I am committed to contributing my unique blend of artistic sensibility and technical knowledge to make a meaningful impact in the industry. My goal is to further develop my expertise in programming while exploring the intersection of technology and art, ultimately contributing to projects that not only solve complex problems but also bring beauty and inspiration to the world.
+I am currently seeking a long-term opportunity where I can grow as a software developer and become an integral part of a collaborative, supportive team—one that feels like a professional family. I’m passionate about honing my development skills, contributing to meaningful projects, and learning from experienced peers in a nurturing environment. While my primary focus is on software development, my background and continued interest in design, photography, and visual storytelling remain important to me. I hope to bring that creative perspective into my work, blending functionality with thoughtful design. My goal is to find a place where I can build lasting relationships, continually challenge myself, and contribute to innovative solutions that are both technically sound and visually engaging.
 
 ## ✨ Projects
 
-- Spotify Search Engine - Principal Software Developer & Team Lead
+- **UI Web Builder – Principal Software Developer & Team Lead**  
+  	- Led the development of a drag-and-drop web application for building customizable websites.  
+  	- Built a modular component system for dynamic element configuration  
+  	- Developed full-stack features using TypeScript, React, Node.js, Express, Prisma ORM, Supabase, and Tailwind CSS  
+  	- Implemented backend logic for storing and retrieving component data via Supabase and Express  
+  	- Deployed the application on Vercel for scalability and performance  
+  	- Integrated Clerk Authentication for secure user access  
+  	- Maintained clean code and ensured collaboration through GitHub
+ 
+- **ACM Ethics App – Solo Developer**  
+	- Developed a mobile application to serve as a quick reference guide for the ACM Code of Ethics.  
+	- Designed and implemented the app using Kotlin, ensuring a user-friendly interface for easy navigation of ethical guidelines
+  	- Employed Android development best practices, including the use of Jetpack components, to enhance app performance and maintainability
+  	- Integrated search functionality to allow users to swiftly locate specific ethical principles  
+	- Conducted thorough testing to ensure reliability and a seamless user experience  
+	- Published the app on the GitHub platform, making it accessible to professionals and students seeking guidance on ethical standards in computing
+
+- **Spotify Search Engine - Principal Software Developer & Team Lead**
 	- Designed and developed a user-centric application utilizing the Spotify API.
 	- Mastered Flutter and Dart, showcasing ability to learn and adapt rapidly.
 	- Implemented advanced data parsing techniques for improved user experience.

@@ -25,10 +25,19 @@ I am a fast-learning programmer with a passion for design and problem-solving. I
 
 ## ⚡ Skills
 
-- Proficient: Python, Java, Flutter/Dart
-- Familiar: C, SQL, Assembly, 
-- Web Development: HTML, CSS, JavaScript
-- Tools: Git/GitHub, Visual Studio Code, IntelliJ, Android Studio, Adobe Suite, Windows Tools
+### **Languages & Frameworks**
+TypeScript, Java, Dart, JavaScript, HTML, CSS, SQL, Python, C, Assembly  
+
+### **Web & App Development**
+React, Node.js, Express, Flutter, Tailwind CSS, Bootstrap, Prisma ORM, Supabase  
+
+### **Tools & Platforms**
+Git & GitHub, Vercel, Clerk Authentication, Visual Studio Code, IntelliJ, Android Studio, Adobe Creative Suite, Windows Tools  
+
+### **Practices & Methodologies**
+CI/CD (Continuous Integration & Deployment), Agile, Waterfall, Clean Code, Version Control
+
+
 
 ## 🌱 Education
 

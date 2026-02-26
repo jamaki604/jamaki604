@@ -11,7 +11,7 @@ Mobile Application Developer | Flutter & Full-Stack Engineer | Founder @ GUNDEX
 
 ## 🤙 About Me
 
-I am a mobile application developer specializing in Flutter and full-stack product development. I build, ship, and maintain production-grade applications across iOS and Android, with hands-on ownership of architecture, backend integration, subscriptions, deployment pipelines, and long-term scalability.
+I am a software developer with experience delivering mobile and full-stack applications across diverse technology stacks. I prioritize clean architecture, scalability, and thoughtful design, selecting tools based on technical fit rather than specialization. I built, shipped, and maintain production-grade applications across iOS and Android, with hands-on ownership of architecture, backend integration, subscriptions, deployment pipelines, and long-term scalability.
 
 As the founder and lead developer of GUNDEX, I designed and launched a cross-platform mobile application used by collectors and players in the trading card community. I built the entire system end-to-end — Flutter frontend, Supabase backend, RESTful API integration, authentication, database architecture, pricing logic, subscription handling, and CI/CD workflows.
 
@@ -110,6 +110,6 @@ Drag-and-drop website builder built with React & Supabase
 
 ## 🔭 What I’m Looking For
 
-I am seeking a mobile-focused engineering role where I can contribute meaningfully to product architecture, performance optimization, and feature development. I thrive in environments that value ownership, high standards, and continuous improvement.
+I am seeking an engineering role where I can contribute meaningfully to product architecture, performance optimization, and feature development. I thrive in environments that value ownership, high standards, and continuous improvement.
 
 My goal is to continuously refine my craft and contribute at a level that reflects the top tier of mobile engineers in the field.
